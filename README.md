@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+<h1>Introduction to GitHub</h1>
 
 _Get started using GitHub in less than an hour._
 
